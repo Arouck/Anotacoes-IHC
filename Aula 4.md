@@ -10,26 +10,26 @@ Dados sobre:
     * Seu conhecimento das tarefas que deverá realizar
     * Suas motivações e valores
 
-1. *O próprio usuário*
+1. **O próprio usuário**
     * Demográfico: idade, sexo, status socioeconômico;
     * Grau de educação;
     * Idiomas e jargões.
 
-2. *Sua relação com tecnologia*
+2. **Sua relação com tecnologia**
     *  Experiência com computadores;
     *  Experiência com um produto específico ou ferramenta semelhante;
     *  Tecnologia disponível.
 
-3. *Seu conhecimento do domínio*
+3. **Seu conhecimento do domínio**
     * O quanto ele conhece do assunto em questão? É especialista? É esperado que se torne um especialista?
 
-4. *Suas tarefas*
+4. **Suas tarefas**
     * Objetivos;
     * Tarefas;
     * Experiência no cargo que ocupa;
     * Gravidade dos erros.
 
-5. *Suas motivações e valores*
+5. **Suas motivações e valores**
     * Motivação para o trabalho;
     * Treinamento;
     * Atitudes e valores.
@@ -37,7 +37,7 @@ Dados sobre:
 ### De quem coletar dados?
 * Usuários finais;
 * Stakeholders;
-* **Feedback** dos usuários;
+* *Feedback* dos usuários;
 * Arquivos de log;
 * Análise competitiva;
 * Processos e normas.
@@ -68,11 +68,11 @@ Dados sobre:
 * Entrevistas;
 * Questionários
 * Grupos de foco;
-* **Brainstorming** de necessidades e desejos do usuário;
+* *Brainstorming* de necessidades e desejos do usuário;
 * Classificação de cartões;
 * Estudos de campo;
 * Investigação contextual.
-
+-------
 - *Grupos de foco*
     - Diversas pessoas são reunidas para discutir, sendo guiadas por um moderador;
     - Permite reunir múltiplos pontos de vista;
