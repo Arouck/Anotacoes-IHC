@@ -4,11 +4,11 @@
 
 ### Que dados coletar?
 Dados sobre:
-    * O próprio usuário
-    * Sua relação com tecnologia
-    * Seu conhecimento e domínio do produto
-    * Seu conhecimento das tarefas que deverá realizar
-    * Suas motivações e valores
+ * O próprio usuário
+ * Sua relação com tecnologia
+ * Seu conhecimento e domínio do produto
+ * Seu conhecimento das tarefas que deverá realizar
+ * Suas motivações e valores
 
 1. **O próprio usuário**
     * Demográfico: idade, sexo, status socioeconômico;
